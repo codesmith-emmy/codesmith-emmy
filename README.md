@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, I’m Emmanuel a Software Developer who is passionate about tech innovation, open-source and learning new technologies.
 
-Let's connect and share our adventures together! 💻🚀
+Let's connect and share our adventures together! 👨🏾‍💻🚀
 
 
 # 💻 Tech Stack:
