@@ -18,8 +18,15 @@ Let's connect and share our adventures together! 👨🏾‍💻
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Codesmith-emmy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+---
+<!-- visiros count -->
+<p align="center">
+  Visitor count
+  <br/>
+  <img src="https://profile-counter.glitch.me/codesmith-emmy/count.svg" />
+</p>
 
 <!---
 codesmith-emmy/codesmith-emmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
