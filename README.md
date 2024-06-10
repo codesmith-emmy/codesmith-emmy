@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Emmanuel a Software Developer who is passionate about tech innovation, open-source, and learning new technologies.
+Hi, I’m Emmanuel a Software Developer who is passionate about cutting-edge innovations, Open-Source, and learning new technologies.
 
 Let's connect and share our adventures together! 👨🏾‍💻 
 
