@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Emmanuel a Software Developer who is passionate about cutting-edge innovations, Open-Source, and embracing new technologies. 👨🏾‍💻
+Hi, I’m Emmanuel an aspiring code magician who is passionate about cutting-edge innovations, Open-Source, and embracing new technologies. 👨🏾‍💻
 
 Let's connect and share our adventures together! ☕️
 
